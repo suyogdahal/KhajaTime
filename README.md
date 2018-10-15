@@ -1,5 +1,5 @@
 # KhajaTime
-Contains name,adress and cuisine type of all the famous restaurants inside the Kathmandu valley.<br/>   
+Contains name,address and cuisine type of all the famous restaurants inside the Kathmandu valley.<br/>   
 **Data Scrapped from :** [FOODMANDU](https://foodmandu.com)<br/><br/>
 **Dependencies used:**<br/>
    *  [Pandas](https://pandas.pydata.org/)
